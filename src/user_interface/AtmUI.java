@@ -404,11 +404,3 @@ public class AtmUI extends javax.swing.JFrame {
     private javax.swing.JButton withdrawButton;
     // End of variables declaration
 }
-
-/*
-
-*/
-
-/*
-
-* */
